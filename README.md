@@ -1,5 +1,5 @@
 # Gothic-Plugin-collection
-## First hand warning you need to install union to your gothic game  <sup><sub>https://www.worldofgothic.de/dl/download_651.htm</sub></sup></br><i>The plugins go Gothic/Data/Plugins</i>
+## First hand warning you need to install union to your gothic game  <sup><sub>https://www.worldofgothic.de/download.php?id=1625</sub></sup></br><i>The plugins go Gothic/Data/Plugins</i>
 Union AcrobaticSwitch Acrobatic on/off
 
 Union Adv_Inventory_17_10_2022
