@@ -2,7 +2,7 @@
 ## First hand warning you need to install union to your gothic game </br> <sup><sub>https://worldofplayers.ru/threads/40376/</sub></sup></br><i>The plugins go Gothic/Data/Plugins</i>
 Union AcrobaticSwitch Acrobatic on/off
 
-Union Adv_Inventory_17_10_2022
+Union Hedin_Union_Adv_Inventory.vdf
 </br>  source<sup><sub> https://rpgrussia.com/resources/rasshirennyj-inventar-dlja-gotiki.3906/</sub></sup>
   
 Union AsyncSaveLoad faster save/load
@@ -38,7 +38,7 @@ Union TimedOverlays potion effects indicator etc
 
 Union TorchControl torch fixes
 
-Union Vob_Locator_21_09_2022 shows nearby items plants etc</br>
+Union Hedin_Union_Vob_Locator.vdf shows nearby items plants etc</br>
   source <sup><sub>https://rpgrussia.com/resources/union-vob-locator-lokator-predmetov-sundukov-luta.4107/</sub></sup>
   
 Union XP_Bar_06.09.2022 exp bar</br>
@@ -49,3 +49,8 @@ Union zUtilities</br>
   
 zParserExtender</br>
   source <sup><sub>https://worldofplayers.ru/threads/41999/</sub></sup>
+Hedin_Union_1H_2H_Splash.vdf aoe weapon effect 
+  Creator of the plugin <b>Hedin</b>
+Hedin_Union_SummonPlugin.vdf better summons 
+  Creator of the plugin <b>Hedin</b>
+  
