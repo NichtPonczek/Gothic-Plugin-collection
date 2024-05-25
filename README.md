@@ -54,5 +54,8 @@ Hedin_Union_1H_2H_Splash.vdf aoe weapon effect </br>
   Creator of the plugin <b>Hedin</b>
   
 Hedin_Union_SummonPlugin.vdf better summons </br>
-  Creator of the plugin <b>Hedin</b>
+  Creator of the plugin <b>Hedin</b></br>
+  
+zTTSDialogues</br>Text to speech for the non voiced dialogues
+  source <sup><sub>https://github.com/Sefaris/zTTSDialogues</sub></sup>
   
