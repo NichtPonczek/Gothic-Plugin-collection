@@ -49,8 +49,10 @@ Union zUtilities</br>
   
 zParserExtender</br>
   source <sup><sub>https://worldofplayers.ru/threads/41999/</sub></sup>
-Hedin_Union_1H_2H_Splash.vdf aoe weapon effect 
+  
+Hedin_Union_1H_2H_Splash.vdf aoe weapon effect </br>
   Creator of the plugin <b>Hedin</b>
-Hedin_Union_SummonPlugin.vdf better summons 
+  
+Hedin_Union_SummonPlugin.vdf better summons </br>
   Creator of the plugin <b>Hedin</b>
   
